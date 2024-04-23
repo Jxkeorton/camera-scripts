@@ -10,6 +10,7 @@ These scripts save me a lot of time inbetween work jumps allowing me to pack my 
 ## Run 
 
 *Method 1*
+
 whilst within the directory of the script in your command line type the following command.
 
 python {script-name}.py
