@@ -2,6 +2,8 @@
 
 A collection of python scripts to aid me when i film tandem skydives for customers.
 
+![tandem exit](./images/G0017303.jpg)
+
 ## Why ?
 These scripts save me a lot of time inbetween work jumps allowing me to pack my parachute and remain focused for the next jump.
 
@@ -17,5 +19,7 @@ python {script-name}.py
 * Click create shortcut
 * Add script path
 * Click shortcut to run the script.
+
+
 
 
